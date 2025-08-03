@@ -1,6 +1,5 @@
 print("cffff")
 
 
-print("cffff")
-print("cffff")
-print("cffff")
+var = 1
+print(var)
