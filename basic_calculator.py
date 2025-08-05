@@ -11,3 +11,4 @@ print("sum: " + str(result_sum))
 print("diff: " + str(result_dif))
 print("prod: " + str(result_prod))
 
+print(num1)
